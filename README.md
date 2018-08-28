@@ -6,5 +6,3 @@ https://github.com/livelybone/meta-scale.git
 
 ## Demo
 https://github.com/livelybone/meta-scale#readme
-
-## TODO
