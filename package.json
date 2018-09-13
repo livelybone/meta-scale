@@ -1,6 +1,6 @@
 {
   "name": "@livelybone/meta-scale",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A module for get meta-scale",
   "main": "./lib/umd/index.js",
   "module": "./lib/es/index.js",
