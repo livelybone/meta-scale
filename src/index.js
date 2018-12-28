@@ -1,3 +1,6 @@
+/**
+ * @return {Number}
+ * */
 export default function () {
   var viewport = Array.prototype.filter.call(document.getElementsByTagName('meta'), function (meta) {
     return meta.getAttribute('name') === 'viewport'
